@@ -1,0 +1,11 @@
+
+
+  .g8                `  MF'    . P~~I!IXM"   O    ""NN. `         7MMFVN         7MMFMM'`
+.dP'     `  MM  ,         MI    "YY      MP  MM  `. MM          MM     MM      NN      MM      `
+dM'       `  MM  `        MMb.   BI     MP   MM`    MM         MM      MM     YM        MM
+MM          MN MM    `     YMM   NqNNNNII    MM     MM        MM       MM  `  MN.        MM"
+MM.         MN   MM  .     `MM   MM    ,MP   MM     MM       `MM.     MM      MM.        MP
+`Mb.       MN,'   MM        dM   MM     ,dP' MM     MM        YMM      MM    `Mb.         dP'
+  `"bmmmdID'       .P"Ybmmd"  .  NMmmmdPN' . MM    .JMMLMMN     NMSSXNNM      SS          YM
+                                                                       NN
+基于Spring Boot ${spring-boot.formatted-version}
